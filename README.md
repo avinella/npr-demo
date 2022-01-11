@@ -1,4 +1,4 @@
-# NPR (Non-photo Realistic Rendering) Demo
+# NPR (Non-photorealistic Rendering) Demo
 
 A WIP demo featuring NPR techniques. Currently, only basic cel-shading is implemented.
 
