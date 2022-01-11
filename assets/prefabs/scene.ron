@@ -1,0 +1,25 @@
+#![enable(implicit_some)]
+/*!
+    @import /amethyst_assets/src/prefab/mod.rs#Prefab
+    Prefab<ScenePrefabData>
+*/
+
+Prefab (
+    entities: [
+        (
+            data: (
+                light: (ambient_color: ((0.4, 0.4, 0.4, 0.5))),
+            ),
+        ),
+        (
+            data: (
+                light: (
+                    light: Directional((
+                        color: (1.0, 1.0, 1.0),
+                        direction: [1.0, 1.0, 1.0]
+                    )),
+                ),
+            ),
+        ),
+    ],
+)

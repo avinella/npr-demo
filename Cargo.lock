@@ -2045,6 +2045,9 @@ version = "0.1.0"
 dependencies = [
  "amethyst",
  "amethyst_gltf",
+ "derivative 2.2.0",
+ "failure",
+ "glsl-layout",
  "serde",
 ]
 

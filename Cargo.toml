@@ -10,3 +10,6 @@ edition = "2018"
 amethyst = {version = "0.15.3", features = ["vulkan"]}
 amethyst_gltf = "0.15.3"
 serde = "1.0.130"
+derivative = "2.2.0"
+glsl-layout = "0.3.2"
+failure = "0.1.7"

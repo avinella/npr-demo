@@ -2,14 +2,14 @@
 /*!
     @import /amethyst_assets/src/prefab/mod.rs#Prefab
     @import ../../gltf/main.rs#ScenePrefabData
-    Prefab<ScenePrefabData>
+    Prefab<AnimationPrefabData>
 */
 
 Prefab (
     entities: [
         (
             data: (
-                gltf: File("scene.gltf", ()),
+                gltf: File("puffy/puffy.gltf", ()),
                 tag: (),
             ),
         ),
